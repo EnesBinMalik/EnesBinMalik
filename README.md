@@ -16,8 +16,8 @@
 
 ## 🏅 Başarılar
 
-Her rozet, tamamlanmış bir işin karşılığı. Sağdaki kalkan ve altıgen, profilin imza rozeti — istenen rozet görselini
-`Settings → Profile → Achievements` vitrinine ekleyebilirsin.
+Bunlar sözle değil, depoyla kazanıldı: 2026 Nisan'da ilk satır kodla başladım, bugün 126 public depo ve
+85 projeye imza kapağı çıkardım. Aşağıdaki tablo o yolun durakları — kalkan ve altıgen de o yolun imzası.
 
 <table>
 <tr>
