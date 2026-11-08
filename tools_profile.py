@@ -100,21 +100,21 @@ def banner() -> str:
 
     # sağ: rozet vitrini (kalkan)
     cx, cy = 900, 200
-    L(f'<g transform="translate({cx},{cy}) scale(0.62) translate(-300,-300)">')
+    L(f'<g transform="translate({cx},{cy}) scale(0.66) translate(-300,-300)">')
     L('<path d="M300 60 L520 140 V320 C520 440 420 520 300 560 C180 520 80 440 80 320 V140 Z" '
       'fill="#0B1420" fill-opacity="0.92" stroke="url(#acc)" stroke-width="3"/>')
     L('<path d="M300 92 L492 162 V318 C492 424 404 492 300 528 C196 492 108 424 108 318 V162 Z" '
       'fill="url(#metal)" stroke="#FFFFFF" stroke-opacity="0.10"/>')
-    L(f'<text x="300" y="250" text-anchor="middle" class="ttl" font-size="86" fill="{CYAN}">EÖ</text>')
-    L(f'<text x="300" y="300" text-anchor="middle" class="m" font-size="19" fill="{INK}" letter-spacing="3">ENES ÖZTÜRK</text>')
-    L(f'<text x="300" y="332" text-anchor="middle" class="m" font-size="13" fill="{DIM}" letter-spacing="1.5">GITHUB · ENESBINMALIK</text>')
-    L(f'<rect x="196" y="360" width="208" height="34" rx="17" fill="{CYAN}" fill-opacity="0.12" stroke="{CYAN}" stroke-opacity="0.45"/>')
-    L(f'<text x="300" y="383" text-anchor="middle" class="cap" font-size="11.5" fill="{CYAN}">İMZALI VİTRİN</text>')
+    L(f'<text x="300" y="250" text-anchor="middle" class="ttl" font-size="112" fill="{CYAN}">EÖ</text>')
+    L(f'<text x="300" y="300" text-anchor="middle" class="m" font-size="26" fill="{INK}" letter-spacing="2.5">ENES ÖZTÜRK</text>')
+    L(f'<text x="300" y="332" text-anchor="middle" class="m" font-size="16" fill="{DIM}" fill-opacity="1" letter-spacing="1.4">GITHUB · ENESBINMALIK</text>')
+    L(f'<rect x="196" y="374" width="208" height="34" rx="17" fill="{CYAN}" fill-opacity="0.12" stroke="{CYAN}" stroke-opacity="0.45"/>')
+    L(f'<text x="300" y="397" text-anchor="middle" class="cap" font-size="12" fill="{CYAN}">İMZALI VİTRİN</text>')
     L("</g>")
 
     # alt şerit
     L(f'<line x1="48" y1="336" x2="1152" y2="336" stroke="#FFFFFF" stroke-opacity="0.07"/>')
-    L(f'<text x="48" y="368" class="m" font-size="12" fill="{FAINT}">'
+    L(f'<text x="48" y="368" class="m" font-size="12.5" fill="{DIM}">'
       'Node.js · GraphQL · Java · Rust · Solana · React · .NET</text>')
     L(f'<text x="1152" y="368" class="m" font-size="12" fill="{CYAN}" text-anchor="end" fill-opacity="0.85">'
       'github.com/EnesBinMalik</text>')
@@ -148,22 +148,22 @@ def badge(shape: str = "shield") -> str:
     L(f'<path d="{inner}" fill="url(#metal)" stroke="#FFFFFF" stroke-opacity="0.12"/>')
     L(f'<path d="{outer}" fill="url(#sheen)" fill-opacity="0.5"/>')
 
-    # merkez: EÖ monogramı
-    L(f'<circle cx="300" cy="238" r="74" fill="none" stroke="{CYAN}" stroke-opacity="0.55" stroke-width="2"/>')
-    L(f'<circle cx="300" cy="238" r="62" fill="{CYAN}" fill-opacity="0.07"/>')
-    L(f'<text x="300" y="268" text-anchor="middle" class="ttl" font-size="76" fill="{CYAN}">EÖ</text>')
-    L(f'<text x="300" y="352" text-anchor="middle" class="m" font-size="19" fill="{INK}" letter-spacing="3.5">ENES ÖZTÜRK</text>')
-    L(f'<text x="300" y="382" text-anchor="middle" class="m" font-size="12.5" fill="{DIM}" letter-spacing="1.6">GITHUB · ENESBINMALIK</text>')
+    # merkez: EÖ monogramı (tek halka, okunur kontrast)
+    L(f'<circle cx="300" cy="228" r="70" fill="{CYAN}" fill-opacity="0.06"/>')
+    L(f'<circle cx="300" cy="228" r="70" fill="none" stroke="{CYAN}" stroke-opacity="0.75" stroke-width="2.5"/>')
+    L(f'<text x="300" y="256" text-anchor="middle" class="ttl" font-size="70" fill="{CYAN}">EÖ</text>')
+    L(f'<text x="300" y="330" text-anchor="middle" class="m" font-size="18" fill="{INK}" letter-spacing="3.5">ENES ÖZTÜRK</text>')
+    L(f'<text x="300" y="356" text-anchor="middle" class="m" font-size="12" fill="{DIM}" letter-spacing="1.6">GITHUB · ENESBINMALIK</text>')
 
     # 4 çentik (kalite işareti)
     for i, col in enumerate([CYAN, VIOLET, AMBER, GREEN]):
-        x = 236 + i * 44
-        L(f'<rect x="{x}" y="404" width="32" height="4" rx="2" fill="{col}" fill-opacity="0.85"/>')
+        x = 238 + i * 42
+        L(f'<rect x="{x}" y="374" width="30" height="4" rx="2" fill="{col}" fill-opacity="0.85"/>')
 
-    L(f'<rect x="196" y="428" width="208" height="34" rx="17" fill="{CYAN}" fill-opacity="0.12" '
+    L(f'<rect x="198" y="394" width="204" height="32" rx="16" fill="{CYAN}" fill-opacity="0.12" '
       f'stroke="{CYAN}" stroke-opacity="0.45"/>')
-    L(f'<text x="300" y="451" text-anchor="middle" class="cap" font-size="11" fill="{CYAN}">İMZALI ROZET</text>')
-    L(f'<text x="300" y="500" text-anchor="middle" class="m" font-size="10.5" fill="{FAINT}">'
+    L(f'<text x="300" y="416" text-anchor="middle" class="cap" font-size="10.5" fill="{CYAN}">İMZALI ROZET</text>')
+    L(f'<text x="300" y="450" text-anchor="middle" class="m" font-size="10.5" fill="{DIM}">'
       'tasarım &amp; geliştirme · Enes Öztürk</text>')
     L("</svg>")
     return "\n".join(a) + "\n"

@@ -27,16 +27,16 @@
 <rect x="498" y="214" width="4" height="84" rx="2" fill="#FBBF24"/>
 <text x="518" y="256" class="t" font-size="28" font-weight="700" fill="#FBBF24">8</text>
 <text x="518" y="278" class="m" font-size="11" fill="#8FA0BD">teknoloji hattı</text>
-<g transform="translate(900,200) scale(0.62) translate(-300,-300)">
+<g transform="translate(900,200) scale(0.66) translate(-300,-300)">
 <path d="M300 60 L520 140 V320 C520 440 420 520 300 560 C180 520 80 440 80 320 V140 Z" fill="#0B1420" fill-opacity="0.92" stroke="url(#acc)" stroke-width="3"/>
 <path d="M300 92 L492 162 V318 C492 424 404 492 300 528 C196 492 108 424 108 318 V162 Z" fill="url(#metal)" stroke="#FFFFFF" stroke-opacity="0.10"/>
-<text x="300" y="250" text-anchor="middle" class="ttl" font-size="86" fill="#22D3EE">EÖ</text>
-<text x="300" y="300" text-anchor="middle" class="m" font-size="19" fill="#E9F0FB" letter-spacing="3">ENES ÖZTÜRK</text>
-<text x="300" y="332" text-anchor="middle" class="m" font-size="13" fill="#8FA0BD" letter-spacing="1.5">GITHUB · ENESBINMALIK</text>
-<rect x="196" y="360" width="208" height="34" rx="17" fill="#22D3EE" fill-opacity="0.12" stroke="#22D3EE" stroke-opacity="0.45"/>
-<text x="300" y="383" text-anchor="middle" class="cap" font-size="11.5" fill="#22D3EE">İMZALI VİTRİN</text>
+<text x="300" y="250" text-anchor="middle" class="ttl" font-size="112" fill="#22D3EE">EÖ</text>
+<text x="300" y="300" text-anchor="middle" class="m" font-size="26" fill="#E9F0FB" letter-spacing="2.5">ENES ÖZTÜRK</text>
+<text x="300" y="332" text-anchor="middle" class="m" font-size="16" fill="#8FA0BD" fill-opacity="1" letter-spacing="1.4">GITHUB · ENESBINMALIK</text>
+<rect x="196" y="374" width="208" height="34" rx="17" fill="#22D3EE" fill-opacity="0.12" stroke="#22D3EE" stroke-opacity="0.45"/>
+<text x="300" y="397" text-anchor="middle" class="cap" font-size="12" fill="#22D3EE">İMZALI VİTRİN</text>
 </g>
 <line x1="48" y1="336" x2="1152" y2="336" stroke="#FFFFFF" stroke-opacity="0.07"/>
-<text x="48" y="368" class="m" font-size="12" fill="#5A6B88">Node.js · GraphQL · Java · Rust · Solana · React · .NET</text>
+<text x="48" y="368" class="m" font-size="12.5" fill="#8FA0BD">Node.js · GraphQL · Java · Rust · Solana · React · .NET</text>
 <text x="1152" y="368" class="m" font-size="12" fill="#22D3EE" text-anchor="end" fill-opacity="0.85">github.com/EnesBinMalik</text>
 </svg>
