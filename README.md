@@ -21,7 +21,7 @@ Bunlar sözle değil, depoyla kazanıldı: 2026 Nisan'da ilk satır kodla başla
 
 <table>
 <tr>
-<td width="45%"><img src="docs/badge-shield.svg" alt="Enes Öztürk imzalı rozet — kalkan" width="260" /></td>
+<td width="45%"><img src="docs/badge-master.svg" alt="Enes Öztürk — imzalı ustalık rozeti" width="310" /></td>
 <td width="55%" valign="top">
 
 | # | Başarı | Ne zaman |
@@ -42,7 +42,7 @@ Bunlar sözle değil, depoyla kazanıldı: 2026 Nisan'da ilk satır kodla başla
 
 <div align="center">
 
-<img src="docs/badge-hex.svg" alt="Enes Öztürk imzalı rozet — altıgen" width="200" />
+<img src="docs/badge-master.svg" alt="Enes Öztürk — imzalı ustalık rozeti" width="230" />
 
 </div>
 
