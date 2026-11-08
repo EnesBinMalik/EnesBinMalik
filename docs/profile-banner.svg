@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="Enes Öztürk — GitHub profil vitrini">
+<title>Enes Öztürk · GitHub Profil Vitrini</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#05090F"/><stop offset="50%" stop-color="#0A1220"/><stop offset="100%" stop-color="#121E33"/></linearGradient><linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE"/><stop offset="55%" stop-color="#A78BFA"/><stop offset="100%" stop-color="#A78BFA" stop-opacity="0.08"/></linearGradient><radialGradient id="g1" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.26"/><stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/></radialGradient><radialGradient id="g2" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#A78BFA" stop-opacity="0.24"/><stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/></radialGradient><linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.22"/><stop offset="45%" stop-color="#FFFFFF" stop-opacity="0.04"/><stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.10"/></linearGradient><linearGradient id="sheen" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.18"/><stop offset="60%" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity="0.035"/></pattern><filter id="soft" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="22"/></filter><style>.t{font-family:'Segoe UI',Inter,system-ui,-apple-system,Arial,sans-serif}.m{font-family:'JetBrains Mono','Cascadia Code',Consolas,monospace}.ttl{font-family:'Segoe UI',Inter,system-ui,-apple-system,Arial,sans-serif;font-weight:700;letter-spacing:-1.6px}.cap{font-family:'Segoe UI',Inter,system-ui,-apple-system,Arial,sans-serif;font-weight:600;letter-spacing:3px}</style></defs>
+<rect width="1200" height="400" fill="url(#bg)"/>
+<rect width="1200" height="400" fill="url(#grid)"/>
+<ellipse cx="200" cy="60" rx="420" ry="240" fill="url(#g1)"/>
+<ellipse cx="1080" cy="380" rx="420" ry="260" fill="url(#g2)"/>
+<rect x="0" y="0" width="6" height="400" fill="url(#acc)"/>
+<g class="m" font-size="11.5" fill="#5A6B88" letter-spacing="1.8"><text x="48" y="42">GITHUB</text><text x="112" y="42" fill="#1E3050">/</text><text x="128" y="42">ENESBINMALIK</text><text x="1152" y="42" text-anchor="end" fill="#22D3EE" fill-opacity="0.85">PROFİL VİTRİNİ</text></g>
+<line x1="48" y1="58" x2="1152" y2="58" stroke="#FFFFFF" stroke-opacity="0.07"/>
+<text x="48" y="132" class="ttl" font-size="54" fill="#E9F0FB">Enes Öztürk</text>
+<text x="48" y="166" class="t" font-size="17" fill="#8FA0BD">Bilgisayar Programcılığı Öğrencisi · IoT &amp; Yazılım Geliştirici · AI &amp; Cloud</text>
+<rect x="48" y="186" width="56" height="3" rx="1.5" fill="#22D3EE"/>
+<rect x="48" y="214" width="138" height="84" rx="14" fill="#0B1420" fill-opacity="0.9" stroke="#1E3050"/>
+<rect x="48" y="214" width="4" height="84" rx="2" fill="#22D3EE"/>
+<text x="68" y="256" class="t" font-size="28" font-weight="700" fill="#22D3EE">126</text>
+<text x="68" y="278" class="m" font-size="11" fill="#8FA0BD">public repo</text>
+<rect x="198" y="214" width="138" height="84" rx="14" fill="#0B1420" fill-opacity="0.9" stroke="#1E3050"/>
+<rect x="198" y="214" width="4" height="84" rx="2" fill="#A78BFA"/>
+<text x="218" y="256" class="t" font-size="28" font-weight="700" fill="#A78BFA">85</text>
+<text x="218" y="278" class="m" font-size="11" fill="#8FA0BD">imzalı kapak</text>
+<rect x="348" y="214" width="138" height="84" rx="14" fill="#0B1420" fill-opacity="0.9" stroke="#1E3050"/>
+<rect x="348" y="214" width="4" height="84" rx="2" fill="#4ADE80"/>
+<text x="368" y="256" class="t" font-size="28" font-weight="700" fill="#4ADE80">47</text>
+<text x="368" y="278" class="m" font-size="11" fill="#8FA0BD">takipçi</text>
+<rect x="498" y="214" width="138" height="84" rx="14" fill="#0B1420" fill-opacity="0.9" stroke="#1E3050"/>
+<rect x="498" y="214" width="4" height="84" rx="2" fill="#FBBF24"/>
+<text x="518" y="256" class="t" font-size="28" font-weight="700" fill="#FBBF24">8</text>
+<text x="518" y="278" class="m" font-size="11" fill="#8FA0BD">teknoloji hattı</text>
+<g transform="translate(900,200) scale(0.62) translate(-300,-300)">
+<path d="M300 60 L520 140 V320 C520 440 420 520 300 560 C180 520 80 440 80 320 V140 Z" fill="#0B1420" fill-opacity="0.92" stroke="url(#acc)" stroke-width="3"/>
+<path d="M300 92 L492 162 V318 C492 424 404 492 300 528 C196 492 108 424 108 318 V162 Z" fill="url(#metal)" stroke="#FFFFFF" stroke-opacity="0.10"/>
+<text x="300" y="250" text-anchor="middle" class="ttl" font-size="86" fill="#22D3EE">EÖ</text>
+<text x="300" y="300" text-anchor="middle" class="m" font-size="19" fill="#E9F0FB" letter-spacing="3">ENES ÖZTÜRK</text>
+<text x="300" y="332" text-anchor="middle" class="m" font-size="13" fill="#8FA0BD" letter-spacing="1.5">GITHUB · ENESBINMALIK</text>
+<rect x="196" y="360" width="208" height="34" rx="17" fill="#22D3EE" fill-opacity="0.12" stroke="#22D3EE" stroke-opacity="0.45"/>
+<text x="300" y="383" text-anchor="middle" class="cap" font-size="11.5" fill="#22D3EE">İMZALI VİTRİN</text>
+</g>
+<line x1="48" y1="336" x2="1152" y2="336" stroke="#FFFFFF" stroke-opacity="0.07"/>
+<text x="48" y="368" class="m" font-size="12" fill="#5A6B88">Node.js · GraphQL · Java · Rust · Solana · React · .NET</text>
+<text x="1152" y="368" class="m" font-size="12" fill="#22D3EE" text-anchor="end" fill-opacity="0.85">github.com/EnesBinMalik</text>
+</svg>
