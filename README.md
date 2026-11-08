@@ -46,20 +46,59 @@ Bunlar sözle değil, depoyla kazanıldı: 2026 Nisan'da ilk satır kodla başla
 
 </div>
 
-### 🥇 GitHub Achievements
+### 🎯 Uzmanlık alanları
 
-GitHub'ın kendi rozetleri de burada — profilde **Settings → Profile** altından görünür.
-Kalan üç rozeti açmak için aşağıdaki "kazanılan yol" bölümüne bak.
+Yaptığım iş, tek tek ödevler değil; birbirini besleyen altı alan. Her alanın altında o alanda çıkan somut iş var.
 
-| Rozet | Durum | Nasıl kazanılır |
-|---|:-:|---|
-| **Pull Shark** | 🦈 | Bir pull request'i merge ettirmek |
-| **Pair Extraordinaire** | 👥 | Bir başkasıyla ortak yazarlı (co-authored) commit |
-| **YOLO** | 🤠 | Bir pull request'i incelemeden merge etmek |
-| **Quickdraw** | ⚡ | Bir issue veya PR'ı açtıktan sonra 5 dakika içinde kapatmak |
-| **Public Sponsor** | 💖 | GitHub Sponsors üzerinden bir projeye sponsor olmak |
-| **Galaxy Brain** | 🧠 | Topluluk tartışmasında kabul edilen yanıt vermek |
-| **Starstruck** | ⭐ | 16+ yıldız alan bir depo yayınlamak |
+<table>
+<tr><td width="33%" valign="top">
+
+**Kurumsal mimari**
+Katmanlı mimari, S.O.L.I.D, tasarım desenleri, UML/EER.
+`kariyerportalı` · `hrms` · `öztürk-bank-atm` · `movie-store-webapi`
+
+</td><td width="33%" valign="top">
+
+**Veri & tahmin**
+RFM segmentasyonu, satış tahmini, kredi risk skoru, ML capstone.
+`e-ticaret-segmentasyon` · `kredi-risk` · `enerji-talebi-ml`
+
+</td><td width="33%" valign="top">
+
+**Gerçek zamanlı & API**
+GraphQL şema/resolver, subscription, Redis PubSub, REST + JWT.
+`anonymous-chat` · `realtime-voting` · `countries-graphql`
+
+</td></tr>
+<tr><td valign="top">
+
+**Web3 & akıllı sözleşme**
+Solana program (Rust), PDA, Borsh, dApp ön yüzü.
+`solana-restaurant-review` · `solana-token-transfer` · `aptos-vault`
+
+</td><td valign="top">
+
+**Java & Rust çekirdeği**
+OOP, generics, Stream API, ownership, trait, Result.
+`java-mylist` · `macera-oyunu` · `rust-sahiplik` · `quick-sort-java`
+
+</td><td valign="top">
+
+**Arayüz & ürün**
+React + TypeScript, Context/Redux, erişilebilir ve ölçekli arayüz.
+`patika-klonu` · `hafıza-oyunu` · `markdown-previewer`
+
+</td></tr>
+</table>
+
+### 📈 Bu yılın çizgisi
+
+| Dönem | Ne oldu |
+|---|---|
+| **Nis 2026** | Hesap açıldı, ilk depo: `Kodluyoruz — İlk GitHub Depom` |
+| **Eki 2026** | Java ve web ödev serisi — 60+ depo tek tek yayınlandı |
+| **Kas 2026** | Proje arşivi birleştirildi: 85 proje, hepsine imza kapağı ve README |
+| **Kas 2026** | Kurumsal mimari serisi: kariyer portalı, HRMS, ATM, WebAPI, kredi riski |
 
 ---
 
