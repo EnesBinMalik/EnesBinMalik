@@ -21,52 +21,14 @@
 
 ---
 
-## ⭐ Öne Çıkanlar
+## 🚀 Projeler
 
 <div align="center">
-<sub>Teknik derinlik, veri akışı ve mimari açısından en çok gurur duyduğum beş proje</sub>
+<sub>Yedi göz bebeği proje, beş öne çıkan — her biri imzalı kapak ve rozetle</sub>
 
-<table>
-<tr>
-<td align="center" width="33%">
-<a href="https://github.com/EnesBinMalik/Kodluyoruz---lk-GitHub-Depom-dev-1-/tree/main/kripto-para---canl%C4%B1-fiyat-takip-platformu"><img src="https://raw.githubusercontent.com/EnesBinMalik/Kodluyoruz---lk-GitHub-Depom-dev-1-/main/kripto-para---canl%C4%B1-fiyat-takip-platformu/docs/kapak.svg" width="330" alt="Kripto Takip" /></a><br/>
-<b>Kripto Takip</b><br/>
-<sub>Canlı fiyat · sparkline · portföy</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/EnesBinMalik/Kodluyoruz---lk-GitHub-Depom-dev-1-/tree/main/ger%C3%A7ek-zamanl%C4%B1-chat-uygulamas%C4%B1"><img src="https://raw.githubusercontent.com/EnesBinMalik/Kodluyoruz---lk-GitHub-Depom-dev-1-/main/ger%C3%A7ek-zamanl%C4%B1-chat-uygulamas%C4%B1/docs/kapak.svg" width="330" alt="Realtime Chat" /></a><br/>
-<b>Realtime Chat</b><br/>
-<sub>Socket.io · odalı · eşzamanlı</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/EnesBinMalik/Kodluyoruz---lk-GitHub-Depom-dev-1-/tree/main/router-s%C4%B1n%C4%B1f%C4%B1---enes-%C3%B6zt%C3%BCrk"><img src="https://raw.githubusercontent.com/EnesBinMalik/Kodluyoruz---lk-GitHub-Depom-dev-1-/main/router-s%C4%B1n%C4%B1f%C4%B1---enes-%C3%B6zt%C3%BCrk/docs/kapak.svg" width="330" alt="Router Sınıfı" /></a><br/>
-<b>Router Sınıfı</b><br/>
-<sub>Regex rota · dispatcher · testler</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<a href="https://github.com/EnesBinMalik/Kodluyoruz---lk-GitHub-Depom-dev-1-/tree/main/kitap-arama-uygulamas%C4%B1---enes-%C3%B6zt%C3%BCrk"><img src="https://raw.githubusercontent.com/EnesBinMalik/Kodluyoruz---lk-GitHub-Depom-dev-1-/main/kitap-arama-uygulamas%C4%B1---enes-%C3%B6zt%C3%BCrk/docs/kapak.svg" width="330" alt="Kitap Arama" /></a><br/>
-<b>Kitap Arama</b><br/>
-<sub>Google Books · künye · favoriler</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/EnesBinMalik/Kodluyoruz---lk-GitHub-Depom-dev-1-/tree/main/enes-%C3%B6zt%C3%BCrk-atelier-_-l%C3%BCks-giyim-%26-e-ticaret"><img src="https://raw.githubusercontent.com/EnesBinMalik/Kodluyoruz---lk-GitHub-Depom-dev-1-/main/enes-%C3%B6zt%C3%BCrk-atelier-_-l%C3%BCks-giyim-%26-e-ticaret/docs/kapak.svg" width="330" alt="Atelier" /></a><br/>
-<b>Atelier</b><br/>
-<sub>Lüks vitrin · filtre · sepet</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/EnesBinMalik/Kodluyoruz---lk-GitHub-Depom-dev-1-"><sub>+ 10 proje daha<br/>Kodluyoruz arşivinde →</sub></a>
-</td>
-</tr>
-</table>
-</div>
+### 🔥 Göz Bebeği Projeler
 
----
-
-## Göz Bebeği Projelerim
-
-<div align="center">
+<sub>Tasarımı, mimarîsi ve her satırı bana ait · MIT · © 2026 Enes Öztürk</sub>
 
 <table>
 <tr>
@@ -119,18 +81,57 @@
 <sub><a href="https://github.com/EnesBinMalik/overclocked-kernel-slayer">kaynak</a></sub>
 </td>
 <td align="center" width="50%">
-<sub><b>+ 4 proje daha</b><br/>The Architect's Core · Neural Architect<br/>ENES ENGINE · The Last Component</sub>
+<img src="docs/goz-bebegi-rozetleri.svg" width="420" alt="Göz bebeği rozetleri" /><br/>
+<sub>Yedi rozet · yedi palet · tek imza</sub>
 </td>
 </tr>
 </table>
 
-<img src="docs/goz-bebegi-rozetleri.svg" alt="Enes Öztürk — göz bebeği rozetleri" width="100%" />
+### ⭐ Öne Çıkanlar
 
-<sub>Yedisi de <b>MIT Lisansı</b> ile yayınlandı · © 2026 Enes Öztürk — tüm hakları saklıdır</sub>
+<sub>Teknik derinlik, veri akışı ve mimari açısından en çok gurur duyduğum beş proje</sub>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://github.com/EnesBinMalik/Kodluyoruz---lk-GitHub-Depom-dev-1-/tree/main/kripto-para---canl%C4%B1-fiyat-takip-platformu"><img src="https://raw.githubusercontent.com/EnesBinMalik/Kodluyoruz---lk-GitHub-Depom-dev-1-/main/kripto-para---canl%C4%B1-fiyat-takip-platformu/docs/kapak.svg" width="330" alt="Kripto Takip" /></a><br/>
+<b>Kripto Takip</b><br/>
+<sub>Canlı fiyat · sparkline · portföy</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/EnesBinMalik/Kodluyoruz---lk-GitHub-Depom-dev-1-/tree/main/ger%C3%A7ek-zamanl%C4%B1-chat-uygulamas%C4%B1"><img src="https://raw.githubusercontent.com/EnesBinMalik/Kodluyoruz---lk-GitHub-Depom-dev-1-/main/ger%C3%A7ek-zamanl%C4%B1-chat-uygulamas%C4%B1/docs/kapak.svg" width="330" alt="Realtime Chat" /></a><br/>
+<b>Realtime Chat</b><br/>
+<sub>Socket.io · odalı · eşzamanlı</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/EnesBinMalik/Kodluyoruz---lk-GitHub-Depom-dev-1-/tree/main/router-s%C4%B1n%C4%B1f%C4%B1---enes-%C3%B6zt%C3%BCrk"><img src="https://raw.githubusercontent.com/EnesBinMalik/Kodluyoruz---lk-GitHub-Depom-dev-1-/main/router-s%C4%B1n%C4%B1f%C4%B1---enes-%C3%B6zt%C3%BCrk/docs/kapak.svg" width="330" alt="Router Sınıfı" /></a><br/>
+<b>Router Sınıfı</b><br/>
+<sub>Regex rota · dispatcher · testler</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<a href="https://github.com/EnesBinMalik/Kodluyoruz---lk-GitHub-Depom-dev-1-/tree/main/kitap-arama-uygulamas%C4%B1---enes-%C3%B6zt%C3%BCrk"><img src="https://raw.githubusercontent.com/EnesBinMalik/Kodluyoruz---lk-GitHub-Depom-dev-1-/main/kitap-arama-uygulamas%C4%B1---enes-%C3%B6zt%C3%BCrk/docs/kapak.svg" width="330" alt="Kitap Arama" /></a><br/>
+<b>Kitap Arama</b><br/>
+<sub>Google Books · künye · favoriler</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/EnesBinMalik/Kodluyoruz---lk-GitHub-Depom-dev-1-/tree/main/enes-%C3%B6zt%C3%BCrk-atelier-_-l%C3%BCks-giyim-%26-e-ticaret"><img src="https://raw.githubusercontent.com/EnesBinMalik/Kodluyoruz---lk-GitHub-Depom-dev-1-/main/enes-%C3%B6zt%C3%BCrk-atelier-_-l%C3%BCks-giyim-%26-e-ticaret/docs/kapak.svg" width="330" alt="Atelier" /></a><br/>
+<b>Atelier</b><br/>
+<sub>Lüks vitrin · filtre · sepet</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/EnesBinMalik/Kodluyoruz---lk-GitHub-Depom-dev-1-"><sub>+ 10 proje daha<br/>Kodluyoruz arşivinde →</sub></a>
+</td>
+</tr>
+</table>
+
+<sub>Hepsi <b>MIT Lisansı</b> ile yayınlandı · © 2026 Enes Öztürk — tüm hakları saklıdır</sub>
 
 </div>
 
 ---
+
 
 ## 📚 Tamamlanan Ödevler
 
