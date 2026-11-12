@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-label="Enes Öztürk — rozet vitrini">
+<style>.h{font-family:'Segoe UI',system-ui,sans-serif;font-weight:700;letter-spacing:.3px}.t{font-family:'Segoe UI',system-ui,sans-serif}.m{font-family:'Consolas',monospace}</style>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#05080D"/><stop offset="1" stop-color="#0A121C"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE"/><stop offset="0.5" stop-color="#A78BFA"/><stop offset="1" stop-color="#34D399"/></linearGradient>
+</defs>
+<rect width="900" height="200" rx="14" fill="url(#bg)"/>
+<rect x="0" y="0" width="900" height="3" fill="url(#ac)"/>
+<text x="24" y="34" class="h" font-size="11" fill="#22D3EE" letter-spacing="2">ROZET VİTRİNİ</text>
+<text x="876" y="34" text-anchor="end" class="m" font-size="10" fill="#4E5E76">5 / 6 GitHub başarı rozeti</text>
+<line x1="24" y1="44" x2="876" y2="44" stroke="#FFFFFF" stroke-opacity="0.07"/>
+<g transform="translate(24 58)">
+<rect x="0" y="0" width="158" height="118" rx="16" fill="#080E16" fill-opacity="0.94" stroke="#F472B6" stroke-opacity="0.28"/>
+<rect x="0" y="0" width="158" height="3" rx="1.5" fill="#F472B6" fill-opacity="0.85"/>
+<polygon points="101.5,33.0 101.5,59.0 79.0,72.0 56.5,59.0 56.5,33.0 79.0,20.0" fill="#F472B6" fill-opacity="0.13" stroke="#F472B6" stroke-opacity="0.7" stroke-width="1.6"/>
+<text x="79" y="51" text-anchor="middle" class="h" font-size="12" fill="#F472B6">QD</text>
+<text x="79" y="88" text-anchor="middle" class="h" font-size="10.5" fill="#E6EDF3">Quickdraw</text>
+<text x="79" y="104" text-anchor="middle" class="t" font-size="8" fill="#6E7E94">8 saniyede kapanan issue</text>
+</g>
+<g transform="translate(194 58)">
+<rect x="0" y="0" width="158" height="118" rx="16" fill="#080E16" fill-opacity="0.94" stroke="#22D3EE" stroke-opacity="0.28"/>
+<rect x="0" y="0" width="158" height="3" rx="1.5" fill="#22D3EE" fill-opacity="0.85"/>
+<polygon points="101.5,33.0 101.5,59.0 79.0,72.0 56.5,59.0 56.5,33.0 79.0,20.0" fill="#22D3EE" fill-opacity="0.13" stroke="#22D3EE" stroke-opacity="0.7" stroke-width="1.6"/>
+<text x="79" y="51" text-anchor="middle" class="h" font-size="12" fill="#22D3EE">PS</text>
+<text x="79" y="88" text-anchor="middle" class="h" font-size="10.5" fill="#E6EDF3">Pull Shark</text>
+<text x="79" y="104" text-anchor="middle" class="t" font-size="8" fill="#6E7E94">2 birleştirilmiş PR</text>
+</g>
+<g transform="translate(364 58)">
+<rect x="0" y="0" width="158" height="118" rx="16" fill="#080E16" fill-opacity="0.94" stroke="#A78BFA" stroke-opacity="0.28"/>
+<rect x="0" y="0" width="158" height="3" rx="1.5" fill="#A78BFA" fill-opacity="0.85"/>
+<polygon points="101.5,33.0 101.5,59.0 79.0,72.0 56.5,59.0 56.5,33.0 79.0,20.0" fill="#A78BFA" fill-opacity="0.13" stroke="#A78BFA" stroke-opacity="0.7" stroke-width="1.6"/>
+<text x="79" y="51" text-anchor="middle" class="h" font-size="12" fill="#A78BFA">PE</text>
+<text x="79" y="88" text-anchor="middle" class="h" font-size="10.5" fill="#E6EDF3">Pair Extraordinaire</text>
+<text x="79" y="104" text-anchor="middle" class="t" font-size="8" fill="#6E7E94">ortak yazarlı commit</text>
+</g>
+<g transform="translate(534 58)">
+<rect x="0" y="0" width="158" height="118" rx="16" fill="#080E16" fill-opacity="0.94" stroke="#34D399" stroke-opacity="0.28"/>
+<rect x="0" y="0" width="158" height="3" rx="1.5" fill="#34D399" fill-opacity="0.85"/>
+<polygon points="101.5,33.0 101.5,59.0 79.0,72.0 56.5,59.0 56.5,33.0 79.0,20.0" fill="#34D399" fill-opacity="0.13" stroke="#34D399" stroke-opacity="0.7" stroke-width="1.6"/>
+<text x="79" y="51" text-anchor="middle" class="h" font-size="12" fill="#34D399">GB</text>
+<text x="79" y="88" text-anchor="middle" class="h" font-size="10.5" fill="#E6EDF3">Galaxy Brain</text>
+<text x="79" y="104" text-anchor="middle" class="t" font-size="8" fill="#6E7E94">kabul edilen cevap</text>
+</g>
+<g transform="translate(704 58)">
+<rect x="0" y="0" width="158" height="118" rx="16" fill="#080E16" fill-opacity="0.94" stroke="#FBBF24" stroke-opacity="0.28"/>
+<rect x="0" y="0" width="158" height="3" rx="1.5" fill="#FBBF24" fill-opacity="0.85"/>
+<polygon points="101.5,33.0 101.5,59.0 79.0,72.0 56.5,59.0 56.5,33.0 79.0,20.0" fill="#FBBF24" fill-opacity="0.13" stroke="#FBBF24" stroke-opacity="0.7" stroke-width="1.6"/>
+<text x="79" y="51" text-anchor="middle" class="h" font-size="12" fill="#FBBF24">YO</text>
+<text x="79" y="88" text-anchor="middle" class="h" font-size="10.5" fill="#E6EDF3">YOLO</text>
+<text x="79" y="104" text-anchor="middle" class="t" font-size="8" fill="#6E7E94">incelemesiz birleştirme</text>
+</g>
+<line x1="24" y1="172" x2="876" y2="172" stroke="#FFFFFF" stroke-opacity="0.07"/>
+<text x="24" y="190" class="t" font-size="9" fill="#5A6B80">Starstruck ve Public Sponsor, topluluk desteğiyle açılır</text>
+<text x="876" y="190" text-anchor="end" class="m" font-size="9" fill="#3F4C60">github.com/EnesBinMalik</text>
+</svg>
