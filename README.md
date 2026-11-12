@@ -2,6 +2,9 @@
 
 <img src="docs/profile-banner.svg" alt="Enes Öztürk — GitHub Profil Vitrini" width="100%" />
 
+<img src="docs/programmer.gif.svg" alt="Enes Öztürk — bilgisayar programcılığı" width="100%" />
+
+
 # Enes Öztürk
 
 **Bilgisayar Programcılığı Öğrencisi · IoT & Yazılım Geliştirici · AI & Cloud Meraklısı**
