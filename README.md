@@ -4,6 +4,8 @@
 
 <img src="docs/programmer.gif.svg" alt="Enes Öztürk — bilgisayar programcılığı" width="100%" />
 
+<img src="docs/programmer-devre.svg" alt="Enes Öztürk — devre kartı animasyonu" width="100%" />
+
 
 # Enes Öztürk
 
