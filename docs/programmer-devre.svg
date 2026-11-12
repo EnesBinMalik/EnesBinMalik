@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-label="Enes Öztürk — bilgisayar programcılığı devre animasyonu">
+<style>.h{font-family:'Segoe UI',system-ui,sans-serif;font-weight:700}.t{font-family:'Segoe UI',system-ui,sans-serif}.m{font-family:'Consolas','Cascadia Code',monospace}.cap{font-family:'Segoe UI',sans-serif;font-weight:700;letter-spacing:3px}</style>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#04070C"/><stop offset="0.5" stop-color="#070D16"/><stop offset="1" stop-color="#0A111C"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE"/><stop offset="0.5" stop-color="#A78BFA"/><stop offset="1" stop-color="#34D399"/></linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFE29A"/><stop offset="0.5" stop-color="#FBBF24"/><stop offset="1" stop-color="#B45309"/></linearGradient>
+<radialGradient id="gl" cx="0.22" cy="0.5" r="0.62"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.22"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+<radialGradient id="gl2" cx="0.85" cy="0.5" r="0.55"><stop offset="0" stop-color="#A78BFA" stop-opacity="0.16"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></radialGradient>
+<filter id="b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="18"/></filter>
+<filter id="g" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="4" result="x"/><feMerge><feMergeNode in="x"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="900" height="260" rx="14" fill="url(#bg)"/>
+<rect width="900" height="260" rx="14" fill="url(#gl)"/>
+<rect width="900" height="260" rx="14" fill="url(#gl2)"/>
+<path d="M470 60 H900 V60" fill="none" stroke="#22D3EE" stroke-opacity="0.20" stroke-width="2" stroke-linecap="round"/>
+<circle r="3" fill="#22D3EE" filter="url(#g)"><animateMotion dur="3.52s" repeatCount="indefinite" path="M470 60 H900 V60"/></circle>
+<circle cx="900" cy="60" r="3.2" fill="none" stroke="#22D3EE" stroke-opacity="0.45" stroke-width="1.4"/>
+<path d="M470 92 H640 V92" fill="none" stroke="#A78BFA" stroke-opacity="0.20" stroke-width="2" stroke-linecap="round"/>
+<circle r="3" fill="#A78BFA" filter="url(#g)"><animateMotion dur="3.24s" repeatCount="indefinite" path="M470 92 H640 V92"/></circle>
+<circle cx="640" cy="92" r="3.2" fill="none" stroke="#A78BFA" stroke-opacity="0.45" stroke-width="1.4"/>
+<path d="M640 92 H640 V150" fill="none" stroke="#A78BFA" stroke-opacity="0.20" stroke-width="2" stroke-linecap="round"/>
+<circle r="3" fill="#A78BFA" filter="url(#g)"><animateMotion dur="3.24s" repeatCount="indefinite" path="M640 92 H640 V150"/></circle>
+<circle cx="640" cy="150" r="3.2" fill="none" stroke="#A78BFA" stroke-opacity="0.45" stroke-width="1.4"/>
+<path d="M470 126 H780 V126" fill="none" stroke="#34D399" stroke-opacity="0.20" stroke-width="2" stroke-linecap="round"/>
+<circle r="3" fill="#34D399" filter="url(#g)"><animateMotion dur="3.24s" repeatCount="indefinite" path="M470 126 H780 V126"/></circle>
+<circle cx="780" cy="126" r="3.2" fill="none" stroke="#34D399" stroke-opacity="0.45" stroke-width="1.4"/>
+<path d="M780 126 H780 V196" fill="none" stroke="#34D399" stroke-opacity="0.20" stroke-width="2" stroke-linecap="round"/>
+<circle r="3" fill="#34D399" filter="url(#g)"><animateMotion dur="3.24s" repeatCount="indefinite" path="M780 126 H780 V196"/></circle>
+<circle cx="780" cy="196" r="3.2" fill="none" stroke="#34D399" stroke-opacity="0.45" stroke-width="1.4"/>
+<path d="M470 160 H560 V160" fill="none" stroke="#22D3EE" stroke-opacity="0.20" stroke-width="2" stroke-linecap="round"/>
+<circle r="3" fill="#22D3EE" filter="url(#g)"><animateMotion dur="2.40s" repeatCount="indefinite" path="M470 160 H560 V160"/></circle>
+<circle cx="560" cy="160" r="3.2" fill="none" stroke="#22D3EE" stroke-opacity="0.45" stroke-width="1.4"/>
+<path d="M560 160 H560 V224" fill="none" stroke="#22D3EE" stroke-opacity="0.20" stroke-width="2" stroke-linecap="round"/>
+<circle r="3" fill="#22D3EE" filter="url(#g)"><animateMotion dur="2.40s" repeatCount="indefinite" path="M560 160 H560 V224"/></circle>
+<circle cx="560" cy="224" r="3.2" fill="none" stroke="#22D3EE" stroke-opacity="0.45" stroke-width="1.4"/>
+<path d="M470 196 H860 V196" fill="none" stroke="#A78BFA" stroke-opacity="0.20" stroke-width="2" stroke-linecap="round"/>
+<circle r="3" fill="#A78BFA" filter="url(#g)"><animateMotion dur="4.08s" repeatCount="indefinite" path="M470 196 H860 V196"/></circle>
+<circle cx="860" cy="196" r="3.2" fill="none" stroke="#A78BFA" stroke-opacity="0.45" stroke-width="1.4"/>
+<path d="M470 228 H700 V228" fill="none" stroke="#34D399" stroke-opacity="0.20" stroke-width="2" stroke-linecap="round"/>
+<circle r="3" fill="#34D399" filter="url(#g)"><animateMotion dur="2.40s" repeatCount="indefinite" path="M470 228 H700 V228"/></circle>
+<circle cx="700" cy="228" r="3.2" fill="none" stroke="#34D399" stroke-opacity="0.45" stroke-width="1.4"/>
+<g>
+<rect x="218" y="52" width="208" height="156" rx="18" fill="#070C14" stroke="url(#ac)" stroke-opacity="0.55" stroke-width="1.8"/>
+<rect x="230" y="64" width="184" height="132" rx="13" fill="none" stroke="#FFFFFF" stroke-opacity="0.06"/>
+<rect x="202" y="70" width="16" height="6" rx="3" fill="#22D3EE" fill-opacity="0.35"/>
+<rect x="426" y="70" width="16" height="6" rx="3" fill="#A78BFA" fill-opacity="0.35"/>
+<rect x="202" y="90" width="16" height="6" rx="3" fill="#22D3EE" fill-opacity="0.35"/>
+<rect x="426" y="90" width="16" height="6" rx="3" fill="#A78BFA" fill-opacity="0.35"/>
+<rect x="202" y="110" width="16" height="6" rx="3" fill="#22D3EE" fill-opacity="0.35"/>
+<rect x="426" y="110" width="16" height="6" rx="3" fill="#A78BFA" fill-opacity="0.35"/>
+<rect x="202" y="130" width="16" height="6" rx="3" fill="#22D3EE" fill-opacity="0.35"/>
+<rect x="426" y="130" width="16" height="6" rx="3" fill="#A78BFA" fill-opacity="0.35"/>
+<rect x="202" y="150" width="16" height="6" rx="3" fill="#22D3EE" fill-opacity="0.35"/>
+<rect x="426" y="150" width="16" height="6" rx="3" fill="#A78BFA" fill-opacity="0.35"/>
+<rect x="202" y="170" width="16" height="6" rx="3" fill="#22D3EE" fill-opacity="0.35"/>
+<rect x="426" y="170" width="16" height="6" rx="3" fill="#A78BFA" fill-opacity="0.35"/>
+<rect x="202" y="190" width="16" height="6" rx="3" fill="#22D3EE" fill-opacity="0.35"/>
+<rect x="426" y="190" width="16" height="6" rx="3" fill="#A78BFA" fill-opacity="0.35"/>
+<line x1="252" y1="82" x2="392" y2="82" stroke="#22D3EE" stroke-opacity="0.10" stroke-width="1"/>
+<line x1="252" y1="104" x2="392" y2="104" stroke="#22D3EE" stroke-opacity="0.10" stroke-width="1"/>
+<line x1="252" y1="126" x2="392" y2="126" stroke="#22D3EE" stroke-opacity="0.10" stroke-width="1"/>
+<line x1="252" y1="148" x2="392" y2="148" stroke="#22D3EE" stroke-opacity="0.10" stroke-width="1"/>
+<line x1="252" y1="170" x2="392" y2="170" stroke="#22D3EE" stroke-opacity="0.10" stroke-width="1"/>
+<text x="322" y="124" text-anchor="middle" class="h" font-size="46" fill="url(#gold)" filter="url(#g)">EÖ</text>
+<line x1="276" y1="144" x2="368" y2="144" stroke="url(#ac)" stroke-width="1.6"/>
+<text x="322" y="166" text-anchor="middle" class="cap" font-size="9" fill="#22D3EE">ENES ÖZTÜRK</text>
+<text x="322" y="182" text-anchor="middle" class="m" font-size="8" fill="#4E5E76">BILGISAYAR PROGRAMCILIGI</text>
+</g>
+<text x="34" y="42" class="h" font-size="15" fill="#E6EDF3">Enes Öztürk</text>
+<text x="34" y="60" class="t" font-size="9.5" fill="#6E7E94">bilgisayar programcılığı · IoT · yazılım</text>
+<line x1="34" y1="72" x2="150" y2="72" stroke="url(#ac)" stroke-width="2"/>
+<text x="34" y="178" class="m" font-size="9" fill="#4E5E76">CPU</text>
+<text x="76" y="178" class="m" font-size="9.5" fill="#22D3EE">0x3F</text>
+<rect x="112" y="171" width="86" height="4" rx="2" fill="#111B26"/>
+<rect x="112" y="171" width="86" height="4" rx="2" fill="#22D3EE" fill-opacity="0.75"><animate attributeName="width" values="40;78;40" dur="2.6s" repeatCount="indefinite"/></rect>
+<text x="34" y="204" class="m" font-size="9" fill="#4E5E76">MEM</text>
+<text x="76" y="204" class="m" font-size="9.5" fill="#A78BFA">64K</text>
+<rect x="112" y="197" width="86" height="4" rx="2" fill="#111B26"/>
+<rect x="112" y="197" width="86" height="4" rx="2" fill="#A78BFA" fill-opacity="0.75"><animate attributeName="width" values="52;70;52" dur="3.1s" repeatCount="indefinite"/></rect>
+<text x="34" y="230" class="m" font-size="9" fill="#4E5E76">NET</text>
+<text x="76" y="230" class="m" font-size="9.5" fill="#34D399">IoT</text>
+<rect x="112" y="223" width="86" height="4" rx="2" fill="#111B26"/>
+<rect x="112" y="223" width="86" height="4" rx="2" fill="#34D399" fill-opacity="0.75"><animate attributeName="width" values="64;62;64" dur="3.6s" repeatCount="indefinite"/></rect>
+<line x1="0" y1="228" x2="900" y2="228" stroke="#FFFFFF" stroke-opacity="0.07"/>
+<text x="34" y="248" class="m" font-size="9" fill="#3F4C60">github.com/EnesBinMalik</text>
+<text x="866" y="248" text-anchor="end" class="m" font-size="9" fill="#3F4C60">© 2026 Enes Öztürk</text>
+</svg>
