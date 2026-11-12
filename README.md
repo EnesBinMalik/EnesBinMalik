@@ -138,7 +138,7 @@
 </tr>
 </table>
 
-<sub>Hepsi <b>MIT Lisansı</b> ile yayınlandı · © 2026 Enes Öztürk — tüm hakları saklıdır</sub>
+<sub>Hepsi <b>MIT Lisansı</b> ile yayınlandı · telif hakkı © 2026 Enes Öztürk'tedir — lisans koşulu gereği ismim ve lisans metni korunmak kaydıyla kullanılabilir</sub>
 
 </div>
 
