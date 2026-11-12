@@ -1,0 +1,371 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-label="Enes Öztürk — bilgisayar programcılığı animasyonu">
+<style>.t{font-family:'Consolas','Cascadia Code',monospace}.h{font-family:'Segoe UI',system-ui,sans-serif;font-weight:700;letter-spacing:2px}</style>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#05080D"/><stop offset="0.6" stop-color="#080E16"/><stop offset="1" stop-color="#0A121C"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE"/><stop offset="0.5" stop-color="#A78BFA"/><stop offset="1" stop-color="#34D399"/></linearGradient>
+<radialGradient id="gl" cx="0.85" cy="0.1" r="0.7"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.20"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+<radialGradient id="gl2" cx="0.05" cy="1" r="0.6"><stop offset="0" stop-color="#A78BFA" stop-opacity="0.16"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></radialGradient>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="26"/></filter>
+</defs>
+<rect width="900" height="240" rx="14" fill="url(#bg)"/>
+<rect width="900" height="240" rx="14" fill="url(#gl)"/>
+<rect width="900" height="240" rx="14" fill="url(#gl2)"/>
+<g class="t" font-size="10" fill="#22D3EE" fill-opacity="0.10">
+<text x="12" y="18">)</text>
+<text x="12" y="44">{</text>
+<text x="12" y="70">;</text>
+<text x="12" y="96">/</text>
+<text x="12" y="122">0</text>
+<text x="12" y="148">1</text>
+<text x="12" y="174">|</text>
+<text x="12" y="200">+</text>
+<text x="12" y="226">1</text>
+<text x="38" y="25">)</text>
+<text x="38" y="51">*</text>
+<text x="38" y="77">0</text>
+<text x="38" y="103">+</text>
+<text x="38" y="129">}</text>
+<text x="38" y="155">0</text>
+<text x="38" y="181">1</text>
+<text x="38" y="207">;</text>
+<text x="38" y="233">;</text>
+<text x="64" y="19">1</text>
+<text x="64" y="45">}</text>
+<text x="64" y="71">1</text>
+<text x="64" y="97">+</text>
+<text x="64" y="123">;</text>
+<text x="64" y="149">0</text>
+<text x="64" y="175">|</text>
+<text x="64" y="201">*</text>
+<text x="64" y="227">1</text>
+<text x="90" y="26">}</text>
+<text x="90" y="52">/</text>
+<text x="90" y="78">/</text>
+<text x="90" y="104">*</text>
+<text x="90" y="130">0</text>
+<text x="90" y="156">*</text>
+<text x="90" y="182">*</text>
+<text x="90" y="208">;</text>
+<text x="90" y="234">0</text>
+<text x="116" y="20">}</text>
+<text x="116" y="46">0</text>
+<text x="116" y="72">+</text>
+<text x="116" y="98">|</text>
+<text x="116" y="124">{</text>
+<text x="116" y="150">(</text>
+<text x="116" y="176">;</text>
+<text x="116" y="202">{</text>
+<text x="116" y="228">+</text>
+<text x="142" y="27">1</text>
+<text x="142" y="53">*</text>
+<text x="142" y="79">(</text>
+<text x="142" y="105">+</text>
+<text x="142" y="131">|</text>
+<text x="142" y="157">/</text>
+<text x="142" y="183">{</text>
+<text x="142" y="209">1</text>
+<text x="142" y="235">*</text>
+<text x="168" y="21">*</text>
+<text x="168" y="47">/</text>
+<text x="168" y="73">}</text>
+<text x="168" y="99">)</text>
+<text x="168" y="125">1</text>
+<text x="168" y="151">+</text>
+<text x="168" y="177">#</text>
+<text x="168" y="203">1</text>
+<text x="168" y="229">*</text>
+<text x="194" y="28">0</text>
+<text x="194" y="54">*</text>
+<text x="194" y="80">}</text>
+<text x="194" y="106">=</text>
+<text x="194" y="132">/</text>
+<text x="194" y="158">+</text>
+<text x="194" y="184">;</text>
+<text x="194" y="210">$</text>
+<text x="194" y="236">)</text>
+<text x="220" y="22">=</text>
+<text x="220" y="48">*</text>
+<text x="220" y="74">=</text>
+<text x="220" y="100">)</text>
+<text x="220" y="126">(</text>
+<text x="220" y="152">}</text>
+<text x="220" y="178">$</text>
+<text x="220" y="204">{</text>
+<text x="220" y="230">#</text>
+<text x="246" y="29">$</text>
+<text x="246" y="55">}</text>
+<text x="246" y="81">1</text>
+<text x="246" y="107">*</text>
+<text x="246" y="133">(</text>
+<text x="246" y="159">+</text>
+<text x="246" y="185">=</text>
+<text x="246" y="211">)</text>
+<text x="246" y="237">#</text>
+<text x="272" y="23">=</text>
+<text x="272" y="49">(</text>
+<text x="272" y="75">*</text>
+<text x="272" y="101">1</text>
+<text x="272" y="127">1</text>
+<text x="272" y="153">+</text>
+<text x="272" y="179">;</text>
+<text x="272" y="205">{</text>
+<text x="272" y="231">$</text>
+<text x="298" y="30">)</text>
+<text x="298" y="56">{</text>
+<text x="298" y="82">=</text>
+<text x="298" y="108">;</text>
+<text x="298" y="134">0</text>
+<text x="298" y="160">/</text>
+<text x="298" y="186">1</text>
+<text x="298" y="212">$</text>
+<text x="298" y="238">+</text>
+<text x="324" y="24">*</text>
+<text x="324" y="50">$</text>
+<text x="324" y="76">|</text>
+<text x="324" y="102">)</text>
+<text x="324" y="128">)</text>
+<text x="324" y="154">#</text>
+<text x="324" y="180">)</text>
+<text x="324" y="206">*</text>
+<text x="324" y="232">=</text>
+<text x="350" y="18">*</text>
+<text x="350" y="44">$</text>
+<text x="350" y="70">=</text>
+<text x="350" y="96">1</text>
+<text x="350" y="122">|</text>
+<text x="350" y="148">1</text>
+<text x="350" y="174">(</text>
+<text x="350" y="200">=</text>
+<text x="350" y="226">#</text>
+<text x="376" y="25">/</text>
+<text x="376" y="51">1</text>
+<text x="376" y="77">0</text>
+<text x="376" y="103">#</text>
+<text x="376" y="129">#</text>
+<text x="376" y="155">(</text>
+<text x="376" y="181">/</text>
+<text x="376" y="207">*</text>
+<text x="376" y="233">/</text>
+<text x="402" y="19">|</text>
+<text x="402" y="45">=</text>
+<text x="402" y="71">(</text>
+<text x="402" y="97">#</text>
+<text x="402" y="123">;</text>
+<text x="402" y="149">/</text>
+<text x="402" y="175">)</text>
+<text x="402" y="201">0</text>
+<text x="402" y="227">=</text>
+<text x="428" y="26">)</text>
+<text x="428" y="52">{</text>
+<text x="428" y="78">*</text>
+<text x="428" y="104">1</text>
+<text x="428" y="130">=</text>
+<text x="428" y="156">0</text>
+<text x="428" y="182">}</text>
+<text x="428" y="208">$</text>
+<text x="428" y="234">(</text>
+<text x="454" y="20">{</text>
+<text x="454" y="46">#</text>
+<text x="454" y="72">}</text>
+<text x="454" y="98">;</text>
+<text x="454" y="124">;</text>
+<text x="454" y="150">|</text>
+<text x="454" y="176">=</text>
+<text x="454" y="202">1</text>
+<text x="454" y="228">{</text>
+<text x="480" y="27">=</text>
+<text x="480" y="53">;</text>
+<text x="480" y="79">+</text>
+<text x="480" y="105">(</text>
+<text x="480" y="131">{</text>
+<text x="480" y="157">|</text>
+<text x="480" y="183">;</text>
+<text x="480" y="209">|</text>
+<text x="480" y="235">+</text>
+<text x="506" y="21">(</text>
+<text x="506" y="47">#</text>
+<text x="506" y="73">;</text>
+<text x="506" y="99">)</text>
+<text x="506" y="125">/</text>
+<text x="506" y="151">;</text>
+<text x="506" y="177">}</text>
+<text x="506" y="203">{</text>
+<text x="506" y="229">1</text>
+<text x="532" y="28">{</text>
+<text x="532" y="54">{</text>
+<text x="532" y="80">}</text>
+<text x="532" y="106">/</text>
+<text x="532" y="132">}</text>
+<text x="532" y="158">0</text>
+<text x="532" y="184">=</text>
+<text x="532" y="210">|</text>
+<text x="532" y="236">*</text>
+<text x="558" y="22">{</text>
+<text x="558" y="48">(</text>
+<text x="558" y="74">(</text>
+<text x="558" y="100">0</text>
+<text x="558" y="126">{</text>
+<text x="558" y="152">;</text>
+<text x="558" y="178">+</text>
+<text x="558" y="204">)</text>
+<text x="558" y="230">*</text>
+<text x="584" y="29">*</text>
+<text x="584" y="55">)</text>
+<text x="584" y="81">{</text>
+<text x="584" y="107">#</text>
+<text x="584" y="133">|</text>
+<text x="584" y="159">+</text>
+<text x="584" y="185">*</text>
+<text x="584" y="211">/</text>
+<text x="584" y="237">/</text>
+<text x="610" y="23">#</text>
+<text x="610" y="49">0</text>
+<text x="610" y="75">=</text>
+<text x="610" y="101">|</text>
+<text x="610" y="127">$</text>
+<text x="610" y="153">|</text>
+<text x="610" y="179">/</text>
+<text x="610" y="205">$</text>
+<text x="610" y="231">+</text>
+<text x="636" y="30">;</text>
+<text x="636" y="56">;</text>
+<text x="636" y="82">;</text>
+<text x="636" y="108">;</text>
+<text x="636" y="134">1</text>
+<text x="636" y="160">=</text>
+<text x="636" y="186">/</text>
+<text x="636" y="212">;</text>
+<text x="636" y="238">0</text>
+<text x="662" y="24">}</text>
+<text x="662" y="50">1</text>
+<text x="662" y="76">}</text>
+<text x="662" y="102">=</text>
+<text x="662" y="128">{</text>
+<text x="662" y="154">1</text>
+<text x="662" y="180">)</text>
+<text x="662" y="206">*</text>
+<text x="662" y="232">0</text>
+<text x="688" y="18">1</text>
+<text x="688" y="44">0</text>
+<text x="688" y="70">*</text>
+<text x="688" y="96">{</text>
+<text x="688" y="122">+</text>
+<text x="688" y="148">1</text>
+<text x="688" y="174">)</text>
+<text x="688" y="200">*</text>
+<text x="688" y="226">0</text>
+<text x="714" y="25">1</text>
+<text x="714" y="51">|</text>
+<text x="714" y="77">}</text>
+<text x="714" y="103">*</text>
+<text x="714" y="129">;</text>
+<text x="714" y="155">{</text>
+<text x="714" y="181">/</text>
+<text x="714" y="207">(</text>
+<text x="714" y="233">)</text>
+<text x="740" y="19">*</text>
+<text x="740" y="45">)</text>
+<text x="740" y="71">=</text>
+<text x="740" y="97">1</text>
+<text x="740" y="123">1</text>
+<text x="740" y="149">|</text>
+<text x="740" y="175">=</text>
+<text x="740" y="201">=</text>
+<text x="740" y="227">=</text>
+<text x="766" y="26">=</text>
+<text x="766" y="52">(</text>
+<text x="766" y="78">1</text>
+<text x="766" y="104">{</text>
+<text x="766" y="130">1</text>
+<text x="766" y="156">#</text>
+<text x="766" y="182">)</text>
+<text x="766" y="208">#</text>
+<text x="766" y="234">(</text>
+<text x="792" y="20">=</text>
+<text x="792" y="46">|</text>
+<text x="792" y="72">#</text>
+<text x="792" y="98">{</text>
+<text x="792" y="124">+</text>
+<text x="792" y="150">0</text>
+<text x="792" y="176">}</text>
+<text x="792" y="202">+</text>
+<text x="792" y="228">)</text>
+<text x="818" y="27">{</text>
+<text x="818" y="53">#</text>
+<text x="818" y="79">+</text>
+<text x="818" y="105">0</text>
+<text x="818" y="131">$</text>
+<text x="818" y="157">+</text>
+<text x="818" y="183">(</text>
+<text x="818" y="209">/</text>
+<text x="818" y="235">|</text>
+<text x="844" y="21">1</text>
+<text x="844" y="47">#</text>
+<text x="844" y="73">|</text>
+<text x="844" y="99">(</text>
+<text x="844" y="125">+</text>
+<text x="844" y="151">)</text>
+<text x="844" y="177">{</text>
+<text x="844" y="203">)</text>
+<text x="844" y="229">$</text>
+<text x="870" y="28">}</text>
+<text x="870" y="54">+</text>
+<text x="870" y="80">+</text>
+<text x="870" y="106">$</text>
+<text x="870" y="132">+</text>
+<text x="870" y="158">)</text>
+<text x="870" y="184">/</text>
+<text x="870" y="210">}</text>
+<text x="870" y="236">*</text>
+</g>
+<rect x="0" y="0" width="900" height="34" rx="14" fill="#0B111A"/><rect x="0" y="20" width="900" height="14" fill="#0B111A"/>
+<circle cx="22" cy="17" r="5" fill="#FF5F57" fill-opacity="0.9"/>
+<circle cx="40" cy="17" r="5" fill="#FEBC2E" fill-opacity="0.9"/>
+<circle cx="58" cy="17" r="5" fill="#28C840" fill-opacity="0.9"/>
+<text x="450" y="21" text-anchor="middle" class="t" font-size="11" fill="#5A6B80">enes@architect ~ /core</text>
+<line x1="0" y1="34" x2="900" y2="34" stroke="url(#ac)" stroke-opacity="0.5"/>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.22s" fill="freeze"/><text x="34" y="78" class="t" font-size="13" fill="#FF7B72" xml:space="preserve">const</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.11s" dur="0.22s" fill="freeze"/><text x="80.0" y="78" class="t" font-size="13" fill="#D2A8FF" xml:space="preserve"> architect </text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.22s" dur="0.22s" fill="freeze"/><text x="181.2" y="78" class="t" font-size="13" fill="#79C0FF" xml:space="preserve">= </text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.33s" dur="0.22s" fill="freeze"/><text x="199.6" y="78" class="t" font-size="13" fill="#FF7B72" xml:space="preserve">async </text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.44s" dur="0.22s" fill="freeze"/><text x="254.79999999999998" y="78" class="t" font-size="13" fill="#8B949E" xml:space="preserve">() =&gt; {</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.55s" dur="0.22s" fill="freeze"/><text x="34" y="104" class="t" font-size="13" fill="#6E7681" xml:space="preserve">  // donanımdan buluta, tek satırda</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.66s" dur="0.22s" fill="freeze"/><text x="356.0" y="104" class="t" font-size="13" fill="#FF7B72" xml:space="preserve">  const </text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.77s" dur="0.22s" fill="freeze"/><text x="429.6" y="104" class="t" font-size="13" fill="#FFA657" xml:space="preserve">core</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.88s" dur="0.22s" fill="freeze"/><text x="466.40000000000003" y="104" class="t" font-size="13" fill="#79C0FF" xml:space="preserve"> = </text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.99s" dur="0.22s" fill="freeze"/><text x="494.00000000000006" y="104" class="t" font-size="13" fill="#FF7B72" xml:space="preserve">await </text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.10s" dur="0.22s" fill="freeze"/><text x="549.2" y="104" class="t" font-size="13" fill="#D2A8FF" xml:space="preserve">boot</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.21s" dur="0.22s" fill="freeze"/><text x="586.0" y="104" class="t" font-size="13" fill="#8B949E" xml:space="preserve">({</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.32s" dur="0.22s" fill="freeze"/><text x="604.4" y="104" class="t" font-size="13" fill="#7EE787" xml:space="preserve">isa</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.43s" dur="0.22s" fill="freeze"/><text x="632.0" y="104" class="t" font-size="13" fill="#8B949E" xml:space="preserve">: </text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.54s" dur="0.22s" fill="freeze"/><text x="650.4" y="104" class="t" font-size="13" fill="#A5D6FF" xml:space="preserve">'x86-64'</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.65s" dur="0.22s" fill="freeze"/><text x="724.0" y="104" class="t" font-size="13" fill="#8B949E" xml:space="preserve">});</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.76s" dur="0.22s" fill="freeze"/><text x="751.6" y="104" class="t" font-size="13" fill="#FF7B72" xml:space="preserve">  for </text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.87s" dur="0.22s" fill="freeze"/><text x="806.8000000000001" y="104" class="t" font-size="13" fill="#8B949E" xml:space="preserve">(</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.98s" dur="0.22s" fill="freeze"/><text x="34" y="130" class="t" font-size="13" fill="#FF7B72" xml:space="preserve">const </text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.09s" dur="0.22s" fill="freeze"/><text x="89.19999999999999" y="130" class="t" font-size="13" fill="#FFA657" xml:space="preserve">bit</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.20s" dur="0.22s" fill="freeze"/><text x="116.79999999999998" y="130" class="t" font-size="13" fill="#FF7B72" xml:space="preserve"> of </text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.31s" dur="0.22s" fill="freeze"/><text x="153.59999999999997" y="130" class="t" font-size="13" fill="#FFA657" xml:space="preserve">core</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.42s" dur="0.22s" fill="freeze"/><text x="190.39999999999998" y="130" class="t" font-size="13" fill="#8B949E" xml:space="preserve">.bits) </text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.53s" dur="0.22s" fill="freeze"/><text x="254.79999999999995" y="130" class="t" font-size="13" fill="#D2A8FF" xml:space="preserve">emit</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.64s" dur="0.22s" fill="freeze"/><text x="291.59999999999997" y="130" class="t" font-size="13" fill="#8B949E" xml:space="preserve">(</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.75s" dur="0.22s" fill="freeze"/><text x="300.79999999999995" y="130" class="t" font-size="13" fill="#FFA657" xml:space="preserve">bit</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.86s" dur="0.22s" fill="freeze"/><text x="328.4" y="130" class="t" font-size="13" fill="#8B949E" xml:space="preserve">);</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.97s" dur="0.22s" fill="freeze"/><text x="346.79999999999995" y="130" class="t" font-size="13" fill="#FF7B72" xml:space="preserve">  return </text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.08s" dur="0.22s" fill="freeze"/><text x="429.59999999999997" y="130" class="t" font-size="13" fill="#A5D6FF" xml:space="preserve">`${core.cycles} cycles`</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.19s" dur="0.22s" fill="freeze"/><text x="641.1999999999999" y="130" class="t" font-size="13" fill="#8B949E" xml:space="preserve">;</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.30s" dur="0.22s" fill="freeze"/><text x="650.4" y="130" class="t" font-size="13" fill="#8B949E" xml:space="preserve">};</text></g>
+<rect x="671.8" y="117" width="8" height="17" fill="#22D3EE"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1.1s" repeatCount="indefinite"/></rect>
+<g transform="translate(782 182)">
+<g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6s" repeatCount="indefinite"/><ellipse cx="0" cy="0" rx="26" ry="10.92" fill="none" stroke="#22D3EE" stroke-opacity="0.35" stroke-width="1.2"/><circle cx="26" cy="0" r="2.6" fill="#22D3EE"/></g>
+<g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="9s" repeatCount="indefinite"/><ellipse cx="0" cy="0" rx="40" ry="16.8" fill="none" stroke="#A78BFA" stroke-opacity="0.35" stroke-width="1.2"/><circle cx="40" cy="0" r="2.6" fill="#A78BFA"/></g>
+<g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="13s" repeatCount="indefinite"/><ellipse cx="0" cy="0" rx="54" ry="22.68" fill="none" stroke="#34D399" stroke-opacity="0.35" stroke-width="1.2"/><circle cx="54" cy="0" r="2.6" fill="#34D399"/></g>
+<circle cx="0" cy="0" r="5" fill="url(#ac)"/>
+</g>
+<g transform="translate(830 74)"><circle r="26" fill="none" stroke="#22D3EE" stroke-opacity="0.5" stroke-width="1.4"><animate attributeName="r" values="26;34;26" dur="3s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.55;0.05;0.55" dur="3s" repeatCount="indefinite"/></circle><text text-anchor="middle" y="7" class="h" font-size="15" fill="#22D3EE">EÖ</text></g>
+<line x1="0" y1="210" x2="900" y2="210" stroke="#FFFFFF" stroke-opacity="0.07"/>
+<text x="24" y="229" class="h" font-size="9.5" fill="#22D3EE">BİLGİSAYAR PROGRAMCILIĞI</text>
+<text x="212" y="229" class="t" font-size="9.5" fill="#4E5E76">· IoT · yazılım · AI · bulut</text>
+<text x="876" y="229" text-anchor="end" class="t" font-size="9.5" fill="#3F4C60">github.com/EnesBinMalik</text>
+<circle r="2.4" fill="#22D3EE"><animateMotion dur="7s" repeatCount="indefinite" path="M24 210 L876 210"/></circle>
+</svg>
