@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="200" viewBox="0 0 450 200" role="img" aria-label="Enes Öztürk — radar animasyonu">
+<style>.h{font-family:'Segoe UI',system-ui,sans-serif;font-weight:700}.t{font-family:'Segoe UI',system-ui,sans-serif}.m{font-family:'Consolas','Cascadia Code',monospace}.cap{font-family:'Segoe UI',sans-serif;font-weight:700;letter-spacing:3px}</style>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#04070C"/><stop offset="1" stop-color="#0A111C"/></linearGradient><linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE"/><stop offset="0.5" stop-color="#A78BFA"/><stop offset="1" stop-color="#34D399"/></linearGradient><linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFF0C2"/><stop offset="0.45" stop-color="#FBBF24"/><stop offset="1" stop-color="#B45309"/></linearGradient><filter id="g" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="3.2" result="x"/><feMerge><feMergeNode in="x"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="450" height="200" rx="14" fill="url(#bg)"/>
+<rect x="0" y="0" width="450" height="3" fill="url(#ac)"/>
+<circle cx="112" cy="108" r="34" fill="none" stroke="#22D3EE" stroke-opacity="0.16"/>
+<circle cx="112" cy="108" r="58" fill="none" stroke="#22D3EE" stroke-opacity="0.16"/>
+<circle cx="112" cy="108" r="82" fill="none" stroke="#22D3EE" stroke-opacity="0.16"/>
+<line x1="24" y1="108" x2="200" y2="108" stroke="#22D3EE" stroke-opacity="0.10"/>
+<line x1="112" y1="20" x2="112" y2="196" stroke="#22D3EE" stroke-opacity="0.10"/>
+<g transform="translate(112 108)">
+<path d="M0 0 L82 0 A82 82 0 0 1 58 58 Z" fill="#22D3EE" fill-opacity="0.20"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="3.4s" repeatCount="indefinite"/></path>
+<line x1="0" y1="0" x2="82" y2="0" stroke="#22D3EE" stroke-width="1.8" filter="url(#g)"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="3.4s" repeatCount="indefinite"/></line>
+</g>
+<circle cx="152" cy="78" r="2.6" fill="#FBBF24" filter="url(#g)"/>
+<circle cx="68" cy="146" r="2.6" fill="#FBBF24" filter="url(#g)"/>
+<circle cx="138" cy="160" r="2.6" fill="#FBBF24" filter="url(#g)"/>
+<text x="218" y="76" class="h" font-size="23" fill="url(#gold)" filter="url(#g)">Enes</text>
+<text x="218" y="104" class="h" font-size="23" fill="url(#gold)" filter="url(#g)">Öztürk</text>
+<text x="218" y="104" class="h" font-size="23" fill="#F8FBFF" fill-opacity="0.88">Öztürk</text>
+<line x1="218" y1="118" x2="330" y2="118" stroke="url(#ac)" stroke-width="1.6"/>
+<text x="218" y="138" class="t" font-size="9" fill="#6E7E94">programcı · mimar · imza sahibi</text>
+<text x="28" y="188" class="m" font-size="8.5" fill="#3F4C60">SCAN · github.com/EnesBinMalik</text>
+</svg>
