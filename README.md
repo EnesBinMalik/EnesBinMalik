@@ -8,6 +8,18 @@
 
 <img src="docs/programmer-eller.svg" alt="Enes Öztürk — kod yazan eller animasyonu" width="100%" />
 
+<table>
+<tr>
+<td align="center" width="50%"><img src="docs/imza-radar.svg" width="100%" alt="Enes Öztürk — radar" /></td>
+<td align="center" width="50%"><img src="docs/imza-akis.svg" width="100%" alt="Enes Öztürk — veri akışı" /></td>
+</tr>
+</table>
+
+<img src="docs/imza-nabiz.svg" width="100%" alt="Enes Öztürk — sistem nabzı" />
+
+<img src="docs/imza-ikili.svg" width="100%" alt="Enes Öztürk — ikili kod" />
+
+
 
 # Enes Öztürk
 
