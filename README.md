@@ -6,6 +6,8 @@
 
 <img src="docs/programmer-devre.svg" alt="Enes Öztürk — devre kartı animasyonu" width="100%" />
 
+<img src="docs/programmer-eller.svg" alt="Enes Öztürk — kod yazan eller animasyonu" width="100%" />
+
 
 # Enes Öztürk
 
