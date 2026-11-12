@@ -14,6 +14,47 @@
 
 ---
 
+## Göz Bebeği Projelerim
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/EnesBinMalik/the-architect-s-core"><img src="https://raw.githubusercontent.com/EnesBinMalik/the-architect-s-core/main/docs/kapak.svg" width="420" alt="The Architect's Core" /></a><br/>
+<b>The Architect's Core</b><br/>
+<sub>Birinci şahıs siber-mühendislik · JIT derleme · 3D nano-dünya</sub><br/>
+<sub><a href="https://github.com/EnesBinMalik/the-architect-s-core">kaynak</a></sub>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/EnesBinMalik/neural-architect-the-bio-synthetic-abyss"><img src="https://raw.githubusercontent.com/EnesBinMalik/neural-architect-the-bio-synthetic-abyss/main/docs/kapak.svg" width="420" alt="Neural Architect" /></a><br/>
+<b>Neural Architect: The Bio-Synthetic Abyss</b><br/>
+<sub>Navier-Stokes akışkan simülasyonu · sinaptik ağ kurgulama</sub><br/>
+<sub><a href="https://github.com/EnesBinMalik/neural-architect-the-bio-synthetic-abyss">kaynak</a></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/EnesBinMalik/enes-engine-architect-0x00"><img src="https://raw.githubusercontent.com/EnesBinMalik/enes-engine-architect-0x00/main/docs/kapak.svg" width="420" alt="ENES ENGINE" /></a><br/>
+<b>ENES ENGINE: ARCHITECT 0x00</b><br/>
+<sub>Kendi oyun motorum · x86-64/ARM donanım hackleme</sub><br/>
+<sub><a href="https://github.com/EnesBinMalik/enes-engine-architect-0x00">kaynak</a></sub>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/EnesBinMalik/the-last-component-son-bilesen"><img src="https://raw.githubusercontent.com/EnesBinMalik/the-last-component-son-bilesen/main/docs/kapak.svg" width="420" alt="The Last Component" /></a><br/>
+<b>The Last Component (Son Bileşen)</b><br/>
+<sub>Atmosferik 3D keşif · fizik tabanlı makro-mekanik macera</sub><br/>
+<sub><a href="https://github.com/EnesBinMalik/the-last-component-son-bilesen">kaynak</a></sub>
+</td>
+</tr>
+</table>
+
+<sub>Dördü de <b>MIT Lisansı</b> ile yayınlandı · © 2026 Enes Öztürk — tüm hakları saklıdır</sub>
+
+</div>
+
+---
+
 ## 🏅 Başarılar
 
 Bunlar sözle değil, depoyla kazanıldı: 2026 Nisan'da ilk satır kodla başladım, bugün 126 public depo ve
