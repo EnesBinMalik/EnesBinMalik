@@ -97,9 +97,36 @@
 <sub><a href="https://github.com/EnesBinMalik/the-last-component-son-bilesen">kaynak</a></sub>
 </td>
 </tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/EnesBinMalik/resonance-architect-the-cymatic-abyss"><img src="https://raw.githubusercontent.com/EnesBinMalik/resonance-architect-the-cymatic-abyss/main/docs/kapak.svg" width="420" alt="Resonance Architect" /></a><br/>
+<b>Resonance Architect: The Cymatic Abyss</b><br/>
+<sub>Kymatek dalga şekillendirme · rezonans mimarîsi</sub><br/>
+<sub><a href="https://github.com/EnesBinMalik/resonance-architect-the-cymatic-abyss">kaynak</a></sub>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/EnesBinMalik/chrono-forge-the-artisan-s-code"><img src="https://raw.githubusercontent.com/EnesBinMalik/chrono-forge-the-artisan-s-code/main/docs/kapak.svg" width="420" alt="Chrono-Forge" /></a><br/>
+<b>Chrono-Forge: The Artisan's Code</b><br/>
+<sub>Saat mekanizması mühendisliği · fiziksel mantık kapıları</sub><br/>
+<sub><a href="https://github.com/EnesBinMalik/chrono-forge-the-artisan-s-code">kaynak</a></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/EnesBinMalik/overclocked-kernel-slayer"><img src="https://raw.githubusercontent.com/EnesBinMalik/overclocked-kernel-slayer/main/docs/kapak.svg" width="420" alt="OVERCLOCKED" /></a><br/>
+<b>OVERCLOCKED: KERNEL SLAYER</b><br/>
+<sub>Bellek manipülasyonu · çekirdek seviyesi savaş</sub><br/>
+<sub><a href="https://github.com/EnesBinMalik/overclocked-kernel-slayer">kaynak</a></sub>
+</td>
+<td align="center" width="50%">
+<sub><b>+ 4 proje daha</b><br/>The Architect's Core · Neural Architect<br/>ENES ENGINE · The Last Component</sub>
+</td>
+</tr>
 </table>
 
-<sub>Dördü de <b>MIT Lisansı</b> ile yayınlandı · © 2026 Enes Öztürk — tüm hakları saklıdır</sub>
+<img src="docs/goz-bebegi-rozetleri.svg" alt="Enes Öztürk — göz bebeği rozetleri" width="100%" />
+
+<sub>Yedisi de <b>MIT Lisansı</b> ile yayınlandı · © 2026 Enes Öztürk — tüm hakları saklıdır</sub>
 
 </div>
 
